@@ -1,6 +1,6 @@
-## Hello, I'm a Process Optimization Specialist
+## Hello,
 
-I'm a **Junior Process Optimization Specialist** with a strong passion for programming in Java. Currently, I'm working on exciting projects like **Yosi**, **UberGloEats**, and **SnapRead**.
+I'm a **Junior Process Optimization Specialist** with a strong passion for programming in Java. 
 
 ### What I Do:
 - **Java Development:** Crafting clean, efficient code.
